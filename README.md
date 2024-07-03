@@ -11,6 +11,7 @@ Rate: 64 hz
 Width: 80 us
 
 5 min power level 14
+
 25+ min power level 24
 
 keeping pads in good condition:
