@@ -18,6 +18,10 @@ OR & maybe preferable:
 
 17 min pl 14 ;; 12 min pl 24
 
+THEN after a break doing unrelated
+
+12 min pl 14 ;; 17 min pl 24
+
 keeping pads in good condition:
 
 clasp together, put in closed cardboard box
